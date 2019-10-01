@@ -8,18 +8,26 @@
 	<link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800|Poppins:100,300,400,500,700,800,900&display=swap" rel="stylesheet">
 	<link rel="stylesheet" href="assets/style.css">
 
+	<style>
+	main {
+		background: linear-gradient(rgba(0, 0, 0, {{page.background-darkening}}), rgba(0, 0, 0, {{page.background-darkening}})), url("images/{{page.background}}");
+		background-repeat: no-repeat;
+		background-size: cover;
+	}
+	</style>
+
 </head>
 <body>
 
 	<nav>
 		<ul class="left">
-			<li class="brand"><img src="images/logo.png" alt="ET AL"></li>
+			<li class="brand"><a href="./"><img src="images/logo.png" alt="ET AL"></a></li>
 		</ul>
 
 		<ul class="right">
-			<li>EXHIBITIONS</li>
-			<li>ABOUT</li>
-			<li>SHOP</li>
+		{% for entry in site.nav %}
+			<li><a href="{{entry.url}}">{{entry.name}}</a></li>
+		{% endfor %}
 		</ul>
 	</nav>
 

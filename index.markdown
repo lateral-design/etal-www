@@ -4,6 +4,8 @@
 
 layout: home
 title: John Doe
+background: art-1.jpg
+background-darkening: 0.75
 ---
 
 ## Oil On Canvas

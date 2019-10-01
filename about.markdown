@@ -1,18 +1,19 @@
 ---
-layout: page
+
+layout: home
 title: About
-permalink: /about/
+background: art-2.jpg
+background-darkening: 0.85
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+ET AL (meaning ‘and others’) is a space for the display of creative work, without the economical restrictions of a gallery. It gives creatives a platform to show, promote and sell your work how you want. Regular “Exhibitions” will take place on the front page. These exhibitions will consist of a body of work by one artist as well as artist notes and extra content surrounding the project. These exhibitions can be in any format as they are not bound by physical restrictions – image, video, sound, interactive, generative etc. Artists will be chosen via open submission, irrespective of who you are or where you’re from. The only determining factor will be the quality of work.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Criteria and contact information can be found on the ‘SUBMISSION DETAILS’ page.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+We want ET AL to evolve, as digital exhibitions take place, based on the creatives we work with.
 
+CONTACT US:
 
-[jekyll-organization]: https://github.com/jekyll
+[info@etalcollective.com](mailto:info@etalcollective.com)
+
+© 2019 ET AL
