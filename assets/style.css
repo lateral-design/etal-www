@@ -161,6 +161,10 @@ nav .right li:hover {
 	border: none;
 }
 
+nav a {
+	text-decoration: none !important;
+}
+
 /* main */
 
 main {
