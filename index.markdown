@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title: John Doe
+title: Kamran Amin
 background: art-1.jpg
 background-darkening: 0.75
 ---
