@@ -34,9 +34,6 @@ nav:
     -
         url: 'about.html'
         name: 'ABOUT'
-    -
-        url: 'shop.html'
-        name: 'SHOP'
 
 # Build settings
 theme: minima
